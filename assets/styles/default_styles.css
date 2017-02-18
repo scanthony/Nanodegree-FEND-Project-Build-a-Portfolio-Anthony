@@ -1,0 +1,13 @@
+body {
+    max-width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.container {
+    max-width: 770px;
+}
+
+.smooth-trans-img {
+    max-width: 226.667px;
+}
