@@ -1,3 +1,23 @@
+# 更新：问题已解决
+不能正常工作的代码：
+<img src="/assets/images/logo.png" alt="Site logo">
+
+能够正常工作的代码：
+<img src="assets/images/logo.png" alt="Site logo">
+
+或者：
+<img src="./assets/images/logo.png" alt="Site logo">
+
+# Update: Issue addressed
+Code that is not working:
+<img src="/assets/images/logo.png" alt="Site logo">
+
+Code that works: 
+<img src="assets/images/logo.png" alt="Site logo">
+
+or: 
+<img src="./assets/images/logo.png" alt="Site logo">
+
 # 网页显示问题求解
 
 网页只能在本地的Web服务器上才能正常显示（比如Adobe Brackets 的实时预览，或者通过Windows内置的IIS访问），如果直接从本地磁盘打开，将无法看到图片显示。
