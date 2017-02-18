@@ -1,3 +1,13 @@
 # 网页显示问题求解
 
 网页只能在本地的Web服务器上才能正常显示（比如Adobe Brackets 的实时预览，或者通过Windows内置的IIS访问），如果直接从本地磁盘打开，将无法看到图片显示。
+
+# Web page display troubleshoting
+
+I was using Adobe Brackets to editing html and css files. And then I used Brakets’ live preview function for testing.
+
+My web page looks good in Brackets’ live review, but if the web page is accessed directly from local hard disk, the page will become wired, even with no images displayed.
+
+I think if you opened the page directly, you will see no images.
+
+If you open the page with, say, Brackets or hosted on Windows’ IIS, the page will work well.
