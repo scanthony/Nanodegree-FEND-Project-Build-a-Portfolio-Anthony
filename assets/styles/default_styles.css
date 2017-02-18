@@ -4,10 +4,8 @@ body {
     margin-right: auto;
 }
 
-.container {
-    max-width: 770px;
+figure > .item-port {
+    max-height: 260px; 
+    max-width: 260px;
 }
 
-.smooth-trans-img {
-    max-width: 226.667px;
-}
