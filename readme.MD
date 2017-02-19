@@ -1,3 +1,6 @@
+# View the project page at Github.io
+https://scanthony.github.io/Nanodegree-FEND-Project-Build-a-Portfolio-Anthony
+
 # Update 2017-02-19 11:45 AM
 Bootstrap grid implementation issue seemed to be addressed. 
 
