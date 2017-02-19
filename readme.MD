@@ -1,3 +1,6 @@
+# Update 2017-02-19 11:45 AM
+Bootstrap grid implementation issue seemed to be addressed. 
+
 # 更新：问题已解决
 不能正常工作的代码：
 ~~~~
